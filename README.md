@@ -11,7 +11,7 @@
 * **Preliminaries**: <br>
 Math and Python (lecture 2, lab 1)
 * **Fundamental ML techniques**:<br> 
- Concept Learning, Clustering, KNN, SOMs, Decision Trees, <br> 
+ Concept Learning, Clustering, K-Nearest Neighbour (KNN), Self Organising Maps (SOM), Decision Trees, <br> 
  Feedforward Networks, Loss, Regularization, … <br>
  (lectures 3-5, labs 2+3)
 ### Specific approaches
