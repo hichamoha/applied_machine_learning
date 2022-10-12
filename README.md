@@ -1,1 +1,1 @@
-# appml
+# Applied Machine Learning
