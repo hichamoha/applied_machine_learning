@@ -10,17 +10,24 @@
 ### Basics
 * **Preliminaries**: <br>
 Math and Python (lecture 2, lab 1)
-* **Fundamental ML techniques**:<br> Concept learning, clustering, KNN, SOMs, Decision Trees, Feedforward networks, loss, regularization, … (lectures 3-5, labs 2+3)
+* **Fundamental ML techniques**:<br> 
+ Concept Learning, Clustering, KNN, SOMs, Decision Trees, <br> 
+ Feedforward Networks, Loss, Regularization, … <br>
+ (lectures 3-5, labs 2+3)
 ### Specific approaches
 * **Deep learning techniques**: <br>
-Convolutional NNs, Recurrent NNs, LSTMs and GRUs, Autoencorders (lectures 6-9, lab 4)
+Convolutional NNs, Recurrent NNs, <br>
+LSTMs and GRUs, Autoencorders <br>
+(lectures 6-9, lab 4)
 * **Distributed techniques**: <br>
 Spark / GPU (lecture 10, lab 5)
 * **Probabilistic methods, Bayesian learning**: <br>
-MAP-learning, NBC, GMMs (lectures 11+12, lab 6)
+MAP-Learning, NBC, GMMs <br>
+(lectures 11+12, lab 6)
 * **Reinforcement Learning**: <br>
-Introduction, TD learning, Q-learning, Actor critic, applications in robotics (lectures 13+14, 
-lab 7)
+Introduction, TD Learning, Q-Learning, <br>
+Actor Critic, Applications in Robotics <br>
+(lectures 13+14, lab 7)
 
 ## Literature
 * Kevin P. Murphy: Machine Learning, "A Probabilistic Perspective". MIT Press, 2012, ISBN: 9780262018029.
