@@ -29,6 +29,13 @@ Introduction, TD Learning, Q-Learning, <br>
 Actor Critic, Applications in Robotics <br>
 (lectures 13+14, lab 7)
 
+## Sources
+* source 0: Richard Johansson “Scientific Computing with Python” <br>
+ https://github.com/jrjohansson/scientific-python-lectures
+
+* source 1: Aurélien Géron https://github.com/ageron/handson-ml
+* source 2: François Chollet https://github.com/fchollet/deep-learning-with-python-notebooks
+
 ## Literature
 * Kevin P. Murphy: Machine Learning, "A Probabilistic Perspective". MIT Press, 2012, ISBN: 9780262018029.
 * Ian Goodfellow, Yoshua Bengio, Aaron Courville: "Deep Learning". MIT Press, 2016, ISBN: 
