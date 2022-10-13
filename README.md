@@ -2,42 +2,34 @@
 **What is Machine Learning ?** ML is an area of AI research providing powerful tools that enable machines (computers) to find 
 **models** describing data and the correlations between them, to
 * **predict** future outcomes or developments given previous data (weather, stock market)
-* **classify** unknown input given known, classified data (scene contains pedestrian or not) 
+* **classify** unknown input given known classified data (scene contains pedestrian or not) 
 * **identify** structures in unseen, unlabeled data (grouping people according to different attributes)
-* **decide** upon next steps or actions to take to maximise reward (new measurement, robot action)
+* **decide** upon next steps, or actions to take, to maximise reward (new measurement, robot action)
 
 ## Contents
 ### Basics
-* **Preliminaries**: <br>
-Math and Python (lecture 2, lab 1)
-* **Fundamental ML techniques**:<br> 
- Concept Learning, Clustering, K-Nearest Neighbour (KNN), Self Organising Maps (SOM), Decision Trees, <br> 
- Feedforward Networks, Loss, Regularization, … <br>
- (lectures 3-5, labs 2+3)
+* **Preliminaries**: Math and Python (lecture 2, lab 1)
+* **Fundamental ML techniques**:  Concept Learning, Clustering, K-Nearest Neighbour (KNN), Self Organising Maps (SOM), <br>
+ Decision Trees, Feedforward Networks, Loss, Regularization, … (lectures 3-5, labs 2+3)
 ### Specific approaches
-* **Deep learning techniques**: <br>
-Convolutional NNs, Recurrent NNs, <br>
-LSTMs and GRUs, Autoencorders <br>
-(lectures 6-9, lab 4)
-* **Distributed techniques**: <br>
-Spark / GPU (lecture 10, lab 5)
-* **Probabilistic methods, Bayesian learning**: <br>
-MAP-Learning, NBC, GMMs <br>
-(lectures 11+12, lab 6)
-* **Reinforcement Learning**: <br>
-Introduction, TD Learning, Q-Learning, <br>
-Actor Critic, Applications in Robotics <br>
-(lectures 13+14, lab 7)
+* **Deep learning techniques**: Convolutional NNs, Recurrent NNs, LSTMs and GRUs, Autoencorders (lectures 6-9, lab 4)
+* **Distributed techniques**: Spark / GPU (lecture 10, lab 5)
+* **Probabilistic methods, Bayesian learning**: MAP-Learning, NBC, GMMs (lectures 11+12, lab 6)
+* **Reinforcement Learning**: Introduction, TD Learning, Q-Learning, Actor Critic, Applications in Robotics (lectures 13+14, lab 7)
 
 ## Assignments
-* Assignment 1: In this lab, we will only review the Python syntax, linear algebra, and important numpy features.
-* Assignment 2: The goal of this lab assignment is to get acquainted with **WEKA**, *Waikato Environment for Knowledge Analysis*, and to learn how to load data sets into the WEKA tool. Then, we will experiment with some **clustering** and **classification** algorithms. <br>
+### Assignment 1
+ In this lab, we will only review the Python syntax, linear algebra, and important numpy features.
+### Assignment 2
+The goal of this lab assignment is to get acquainted with **WEKA**, *Waikato Environment for Knowledge Analysis*, and to learn how to load data sets into the WEKA tool. Then, we will experiment with some **clustering** and **classification** algorithms. <br>
 In addition, in the second part of the assignment, we will explore some programming concepts in Python, SciKitLearn, and partially Numpy to implement a **decision tree** classifier and compare it with the provided one in SciKitLearn. Then, we will get acquainted with the simplified version of the MNIST dataset provided in SciKitLearn, and explore the effect of (some) data preprocessing on the learning process.
-* Assignment 3:
-* Assignment 4: 
-* Assignment 5:
-* Assignment 6:
-* Assignment 7:
+### Assignment 3
+The objectives of this assignment are to Write a program to recognize flowers on images, learn how to manage an image data set, apply convolutional networks to images, know what Python generators are, and understand class activation. You will have to experiment different architectures and compare the results you obtained.
+### Assignment 4
+The objectives of this assignment are to write a program to recognize named entities in text, learn how to manage a text data set, apply recurrent neural networks to text, and know what word embeddings are. You will have to experiment different architectures, namely RNN and LSTM, and compare the results you obtained.
+### Assignment 5
+### Assignment 6
+### Assignment 7
 
 ## Sources
 * source 0: Richard Johansson “Scientific Computing with Python” <br>
