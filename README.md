@@ -28,8 +28,12 @@ The objectives of this assignment are to Write a program to recognize flowers on
 ### Assignment 4
 The objectives of this assignment are to write a program to recognize named entities in text, learn how to manage a text data set, apply recurrent neural networks to text, and know what word embeddings are. You will have to experiment different architectures, namely RNN and LSTM, and compare the results you obtained.
 ### Assignment 5
+In this assignment, we Learn how to read, transform and process text data with **Pyspark**, preprocess and create a suitable dataset for **clustering**, use **KMeans** from **sklearn** and cluster 10 000 words to 200 clusters, and write a function which displays words nearby. More specifically, you will first solve a few exercises on *Spark* to learn how to write basic commands. You will then apply *Spark* to extract the 10,000 most frequent words in the English Wikipedia. As this corpus is very large, you will use 1% of it in the lab, the full Wikipedia is available. You will finally cluster these words into 100 groups using their GloVe100 representation. As clustering program, you will use *KMeans* from *sklearn*.
 ### Assignment 6
+In and after this lab session you will train a **Gaussian NBC** with the EM algorithm, compare the results you get to those of the **k-Means clustering** provided in SciKitLearn, and discuss the classifiers from this lab session and those from the previous session (supervised learning of NBCs) in a brief report.
+
 ### Assignment 7
+In this lab you are going to implement a **deep reinforcement learning** agent. Unlike in **supervised learning** the algorithm does not learn from examples but rather from interacting with the problem, i.e. trial and error.
 
 ## Sources
 * source 0: Richard Johansson “Scientific Computing with Python” <br>
