@@ -30,6 +30,8 @@ The objectives of this assignment are to write a program to recognize named enti
 ### Assignment 5
 In this assignment, we Learn how to read, transform and process text data with **Pyspark**, preprocess and create a suitable dataset for **clustering**, use **KMeans** from **sklearn** and cluster 10 000 words to 200 clusters, and write a function which displays words nearby. More specifically, you will first solve a few exercises on *Spark* to learn how to write basic commands. You will then apply *Spark* to extract the 10,000 most frequent words in the English Wikipedia. As this corpus is very large, you will use 1% of it in the lab, the full Wikipedia is available. You will finally cluster these words into 100 groups using their GloVe100 representation. As clustering program, you will use *KMeans* from *sklearn*.
 ### Assignment 6
+In this assignment, we will apply a **Bayesian classifier** to recognise handwritten 5-digit zip-codes based on the **MNIST dataset**. The MNIST dataset is a set of handwritten digits, and our job is to build a python program that takes as input an image of a digit, and outputs what digit it is. We have a dataset of handwritten digits from 0 to 9.
+
 In and after this lab session you will train a **Gaussian NBC** with the EM algorithm, compare the results you get to those of the **k-Means clustering** provided in SciKitLearn, and discuss the classifiers from this lab session and those from the previous session (supervised learning of NBCs) in a brief report.
 
 ### Assignment 7
