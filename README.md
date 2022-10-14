@@ -32,8 +32,6 @@ In this assignment, we Learn how to read, transform and process text data with *
 ### Assignment 6
 In this assignment, we will apply a **Bayesian classifier** to recognise handwritten 5-digit zip-codes based on the **MNIST dataset**. The MNIST dataset is a set of handwritten digits, and our job is to build a python program that takes as input an image of a digit, and outputs what digit it is. We have a dataset of handwritten digits from 0 to 9.
 
-In and after this lab session you will train a **Gaussian NBC** with the EM algorithm, compare the results you get to those of the **k-Means clustering** provided in SciKitLearn, and discuss the classifiers from this lab session and those from the previous session (supervised learning of NBCs) in a brief report.
-
 ### Assignment 7
 In this lab you are going to implement a **deep reinforcement learning** agent. Unlike in **supervised learning** the algorithm does not learn from examples but rather from interacting with the problem, i.e. trial and error.
 
